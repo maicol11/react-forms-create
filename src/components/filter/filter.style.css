@@ -1,0 +1,27 @@
+select, input {
+    padding: 3px;
+    border-radius: 5px;
+}
+label {
+    text-align: justify;
+}
+.input-container, button {
+    padding: 5px;
+}
+button {
+    margin-top: 5px;
+}
+.error {
+    display: block;
+    color: red;
+}
+button {
+    background-color: white;
+    cursor: pointer;
+}
+.filter td {
+    border-color: #943d3d;
+}
+.filterType td {
+    border-color: #6e943d;
+}

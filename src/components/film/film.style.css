@@ -1,0 +1,13 @@
+.title {
+    font-weight: bold;
+    padding: 6px;
+}
+.yes {
+    color: green;
+}
+.no {
+    color: red;
+}
+.film td{
+    border-color: #333c87;
+}
